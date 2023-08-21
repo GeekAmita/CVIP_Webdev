@@ -52,7 +52,7 @@ function Learning() {
           </ul>
         </div>
         <div className="w-1/2">
-          <img src="src/assets/Learning.png" alt="" />
+          <img src="./assets/Learning.png" alt="" />
         </div>
       </div>
     </div>

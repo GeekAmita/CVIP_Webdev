@@ -14,7 +14,7 @@ function Home() {
         </button>
       </div>
       <div className="w-8/12">
-        <img src="src/assets/Home.png" alt="A girl and a boy" />
+        <img src="./assets/Home.png" alt="A girl and a boy" />
       </div>
     </div>
   );

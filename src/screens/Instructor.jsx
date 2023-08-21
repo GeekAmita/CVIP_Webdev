@@ -2,7 +2,7 @@ function Instructor() {
   return (
     <div id="instructor" className="flex justify-between px-32">
       <div className="w-3/4">
-        <img src="src/assets/Instructor.png" alt="" />
+        <img src="./assets/Instructor.png" alt="" />
       </div>
       <div className="flex flex-col justify-evenly">
         <p className="text-gray-800 text-6xl font-medium">
